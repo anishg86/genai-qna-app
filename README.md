@@ -5,7 +5,7 @@ This project is a Gen AI Q&A app enabling users to upload documents(of extension
 
 
 # Architecture
-https://github.com/anishg86/genai-qna-app/blob/master/chat_llm_rag.png
+![img.png](img.png)
 
 # Description
 This app follows RAG(Retrieval Augumented Generation) approach to query the LLM in conjunction with a vector store to create embeddings and store the embeddings of the input documents. This app have two flavours  
